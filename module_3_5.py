@@ -11,3 +11,4 @@ def get_multiplied_digits(number):
 
 
 print(get_multiplied_digits(40203))
+print(get_multiplied_digits(240))
